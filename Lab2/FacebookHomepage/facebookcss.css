@@ -1,0 +1,187 @@
+.main
+{
+  height: 80vh;
+  width: 100%;
+  background-color: #f0f2f5;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif ;
+}
+
+.txt
+{
+  font-family: Helvetica ;
+  font-size: 28px;
+  font-weight: normal;
+  margin-top: -30px;
+}
+
+.left
+{
+  position: fixed;
+  margin-top: 13%;
+  margin-left: 15%;
+  width: 460px;
+  bottom: 50%;
+  left: 12px;
+
+}
+
+.right
+{ position: fixed;
+  background-color: #fff;
+  border-radius: 8px;
+  box-sizing: border-box;
+  margin: 40px 0 0;
+  padding: 20px 0px 28px ;
+  width: 396px;
+  height: 343px;
+  right: 180px;
+  top: 10%;
+text-align: center;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+
+}
+.inputtext
+{ font-family: inherit;
+  font-size: 17px;
+  width: 364px;
+  height: 52px;
+  margin-top: 12px;
+  text-align: center;
+  border-radius: 6px;
+  border : 1px solid #dddfe2;
+  padding: 2px 2px;
+  text-rendering: auto;
+
+
+}
+.password1 {
+  font-family: inherit;
+  font-size: 17px;
+  width: 364px;
+  height: 52px;
+  margin-top: 12px;
+  text-align: center;
+  border-radius: 6px;
+  border : 1px solid #dddfe2;
+  padding : 2px ;
+}
+.fb_logo{
+  bottom: 45px;
+  position:relative;
+  margin: -28px;
+  height: 106px;
+}
+
+#sozdatbutton {
+  position: relative;
+  background-color: #42b72a;
+  font-weight: bold;
+  font-size: 17px;
+  color: #f9fffd;
+  width: 233px;
+  height: 42px;
+  border : none ;
+  border-radius: 6px;
+  margin-top: 12px;
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 12px;
+}
+
+.zabyl {
+  font-family: inherit;
+  margin: 16px 0px 0px ;
+  font-size: 14px;
+  font-weight: 500;
+  color : #3b75f7;
+
+
+}
+
+#vhod {
+  background-color: #1877f2;
+  font-family: Helvetica;
+  font-weight: bold;
+  width: 364px;
+  height: 48px;
+  font-size: 20px;
+  color : #FFFFFF;
+  padding: 0 16px;
+  border-radius: 6px;
+ border: none ;
+}
+
+
+.focus {
+  border-bottom: 1px solid #dadde1;
+  align-items: center;
+  margin: 10px 12px ;
+}
+
+.ios{
+  text-align: center;
+}
+.zname{
+  margin: 28px;
+  color: #1c1e21;
+  font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  padding-top: 0;
+}
+#ret
+{
+  font-weight: bold;
+  color: #1c1e21;
+  font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  text-decoration: none;
+}
+.zabyl1{
+  font-family: inherit;
+  margin: 16px 0px 0px ;
+  font-size: 14px;
+  font-weight: 500;
+  color: #3399ff;
+}
+
+.languages{
+  position: relative;
+  color: #8a8d91;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif ;
+  font-size:12px;
+  top:106%;
+  left: 214px;
+  word-spacing: 15px;
+}
+.focus1{
+  position: relative;
+  border-bottom: 1px solid #dadde1;
+  align-items: center;
+  margin: 10px 12px ;
+  top:106%;
+  left:205px;
+  width: 980px;
+}
+.txtinfo
+{
+  position: relative;
+  color: #8a8d91;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif ;
+  font-size:12px;
+  top:106%;
+  left: 214px;
+  word-spacing: 25px;
+}
+#a{
+  width: 30px;
+  height:20px;
+  font-size: 12px;
+  top:106%;
+  left: 214px;
+  font-weight: bolder;
+
+  border : 1px solid #dddfe2;
+}
